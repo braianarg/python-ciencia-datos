@@ -3,4 +3,6 @@
 
 Repositorio creado para dejar documentado el cursado de Ciencia de Datos en la Universidad Nacional de Salta (UNSa).  
   
-**Alumno:** Braian Argañaraz.
+**Alumno:** Braian Argañaraz.  
+**Comision:** 4.  
+**Profesora:** Laura Dillon.
